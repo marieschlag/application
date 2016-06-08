@@ -1,0 +1,50 @@
+table, th, td{
+	border: 1px solid #FFF3E1;
+}
+
+body {
+    background-image: url(77ed901b3b8f295c458961ea756d08d4.jpg);
+}
+
+.form1 {
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+.form2 {
+    margin-left: 400px;
+    margin-top: 50px; 
+}
+
+fieldset {
+    font-size: 1.5em;
+    color: white;
+}
+
+label {
+    color: white;
+    font-family: century gothic;
+}
+
+a {
+    color: white;
+    font-family: century gothic;
+    padding: 10px;
+}
+
+a:hover {
+    color: white;
+    font-family: century gothic;
+    padding: 10px;
+}
+
+table {
+    background-color: transparent;
+    color: white;
+    font-family: century gothic;
+    width: 800px;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 400px;
+    border-color: grey;
+}
